@@ -1,0 +1,10 @@
+[project]
+name = "my-default-app"
+version = "0.1.0"
+template = "default"
+edge = false
+target = "native"
+grpc = false
+
+[dependencies]
+core = "0.1.0"

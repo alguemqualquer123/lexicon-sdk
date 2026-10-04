@@ -1,0 +1,10 @@
+[project]
+name = "my-plugin-app"
+version = "0.1.0"
+template = "plugin"
+edge = false
+target = "native"
+grpc = false
+
+[dependencies]
+core = "0.1.0"

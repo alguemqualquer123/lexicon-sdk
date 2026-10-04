@@ -1,0 +1,10 @@
+[project]
+name = "my-api-app"
+version = "0.1.0"
+template = "api"
+edge = false
+target = "native"
+grpc = false
+
+[dependencies]
+core = "0.1.0"
